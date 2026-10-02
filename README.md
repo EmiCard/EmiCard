@@ -1,4 +1,4 @@
-# ¡Hola! Soy Emilce Cárdenas Torres 👋
+# ¡Hola! Soy Emilce Cárdenas 👋
 
 Estudiante de Ingeniería de Sistemas (UNAD) | Técnica y Tecnóloga en Sistemas
 
@@ -8,10 +8,10 @@ Estudiante de Ingeniería de Sistemas (UNAD) | Técnica y Tecnóloga en Sistemas
 - 📻 Apasionada por la gestión de proyectos de TI, infraestructura y servicios informáticos.
 
 ## 🛠️ Tecnologías y Herramientas
-- **Sistemas Operativos & Mantenimiento:** Windows Server, Windows 10/11, PowerShell, CMD.
+- **Sistemas Operativos & Mantenimiento:** Windows 10/11, PowerShell, CMD.
 - **Desarrollo & Entornos:** HTML5, CSS3, Git, GitHub, Moodle.
 - **Herramientas de TI:** VS Code, AnyDesk, PDFgear.
 
 ## 🤝 Contacto Profesional
-- **LinkedIn:** [Poner enlace a tu LinkedIn aquí]
+- **LinkedIn:** www.linkedin.com/in/emilce-c-287b13a9
 - Si deseas contactarme, puedes hacerlo a través de mi red profesional en LinkedIn o abriendo un *Issue* en mis repositorios de GitHub.
