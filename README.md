@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! Soy Emilce Cárdenas Torres 👋
 
-<!--
-**EmiCard/EmiCard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería de Sistemas (UNAD) | Técnica y Tecnóloga en Sistemas
 
-Here are some ideas to get you started:
+## 👩‍💻 Sobre mí
+- 🎓 Estudiando **Ingeniería de Sistemas** en la **UNAD**.
+- 🛠️ Experiencia en soporte técnico, mantenimiento de sistemas, gestión de plataformas Moodle y diseño web (HTML/CSS).
+- 📻 Apasionada por la gestión de proyectos de TI, infraestructura y servicios informáticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas
+- **Sistemas Operativos & Mantenimiento:** Windows Server, Windows 10/11, PowerShell, CMD.
+- **Desarrollo & Entornos:** HTML5, CSS3, Git, GitHub, Moodle.
+- **Herramientas de TI:** VS Code, AnyDesk, PDFgear.
+
+## 🤝 Contacto Profesional
+- **LinkedIn:** [Poner enlace a tu LinkedIn aquí]
+- Si deseas contactarme, puedes hacerlo a través de mi red profesional en LinkedIn o abriendo un *Issue* en mis repositorios de GitHub.
